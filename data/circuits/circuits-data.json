@@ -10,7 +10,7 @@
    "turns": 15,
    "ddDay": "18 - 20",
    "ddMonth": "MAR",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/bahrain-flag-square-large.png"
  },
  {
    "title": "Saudi Arabian Grand Prix",
@@ -23,7 +23,7 @@
    "turns": 27,
    "ddDay": "25 - 27",
    "ddMonth": "MAR",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/saudi-arabia-flag-square-large.png"
  },
  {
    "title": "Australian Grand Prix",
@@ -36,7 +36,7 @@
    "turns": 16,
    "ddDay": "08 - 10",
    "ddMonth": "AVR",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/australia-flag-square-large.png"
  },
  {
    "title": "Emilia Romagna Grand Prix",
@@ -49,7 +49,7 @@
    "turns": 19,
    "ddDay": "22 - 24",
    "ddMonth": "AVR",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/italy-flag-square-large.png"
  },
  {
    "title": "Miami Grand Prix",
@@ -62,7 +62,7 @@
    "turns": 19,
    "ddDay": "06 - 08",
    "ddMonth": "MAI",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/united-states-of-america-flag-square-large.png"
  },
  {
    "title": "Spanish Grand Prix",
@@ -75,7 +75,7 @@
    "turns": 16,
    "ddDay": "20 - 22",
    "ddMonth": "MAI",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/spain-flag-square-large.png"
  },
  {
    "title": "Monaco Grand Prix",
@@ -88,7 +88,7 @@
    "turns": 19,
    "ddDay": "27 - 29",
    "ddMonth": "MAI",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/monaco-flag-square-large.png"
  },
  {
    "title": "Azerbaijan Grand Prix",
@@ -101,7 +101,7 @@
    "turns": 20,
    "ddDay": "10 - 12",
    "ddMonth": "JUN",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/azerbaijan-flag-square-large.png"
  },
  {
    "title": "Canadian Grand Prix",
@@ -114,7 +114,7 @@
    "turns": 14,
    "ddDay": "17 - 19",
    "ddMonth": "JUN",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/canada-flag-square-large.png"
  },
  {
    "title": "British Grand Prix",
@@ -127,7 +127,7 @@
    "turns": 18,
    "ddDay": "01 - 03",
    "ddMonth": "JUL",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/united-kingdom-flag-square-large.png"
  },
  {
    "title": "Austrian Grand Prix",
@@ -140,7 +140,7 @@
    "turns": 10,
    "ddDay": "08 - 10",
    "ddMonth": "JUL",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/austria-flag-square-large.png"
  },
  {
    "title": "French Grand Prix",
@@ -153,7 +153,7 @@
    "turns": 15,
    "ddDay": "22 - 24",
    "ddMonth": "JUL",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/france-flag-square-large.png"
  },
  {
    "title": "Hungarian Grand Prix",
@@ -166,7 +166,7 @@
    "turns": 14,
    "ddDay": "29 - 31",
    "ddMonth": "JUL",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/hungary-flag-square-large.png"
  },
  {
    "title": "Belgian Grand Prix",
@@ -179,7 +179,7 @@
    "turns": 19,
    "ddDay": "26 - 28",
    "ddMonth": "AOU",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/belgium-flag-square-large.png"
  },
  {
    "title": "Dutch Grand Prix",
@@ -192,7 +192,7 @@
    "turns": 14,
    "ddDay": "02 - 04",
    "ddMonth": "SEP",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/netherlands-flag-square-large.png"
  },
  {
    "title": "Italian Grand Prix",
@@ -205,7 +205,7 @@
    "turns": 11,
    "ddDay": "09 - 11",
    "ddMonth": "SEP",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/italy-flag-square-large.png"
  },
  {
    "title": "Singapore Grand Prix",
@@ -218,7 +218,7 @@
    "turns": 23,
    "ddDay": "30 - 02",
    "ddMonth": "SEP-OCT",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/singapore-flag-square-large.png"
  },
  {
    "title": "Japanese Grand Prix",
@@ -231,7 +231,7 @@
    "turns": 18,
    "ddDay": "07 - 09",
    "ddMonth": "OCT",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/japan-flag-square-large.png"
  },
  {
    "title": "United States Grand Prix",
@@ -244,7 +244,7 @@
    "turns": 20,
    "ddDay": "21 - 23",
    "ddMonth": "OCT",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/usa-flag-square-large.png"
  },
  {
    "title": "Mexico City Grand Prix",
@@ -257,7 +257,7 @@
    "turns": 17,
    "ddDay": "28 - 30",
    "ddMonth": "OCT",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/mexico-flag-square-large.png"
  },
  {
    "title": "Brazilian Grand Prix",
@@ -270,7 +270,7 @@
    "turns": 15,
    "ddDay": "11 - 13",
    "ddMonth": "NOV",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/brazil-flag-square-large.png"
  },
  {
    "title": "Abu Dhabi Grand Prix",
@@ -283,6 +283,6 @@
    "turns": 21,
    "ddDay": "18 - 20",
    "ddMonth": "NOV",
-   "image": "google.com"
+   "image": "https://ontrack-app.com/data/circuits/circuits-images/united-arab-emirates-flag-square-large.png"
  }
 ]
