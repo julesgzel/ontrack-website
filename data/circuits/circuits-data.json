@@ -9,7 +9,7 @@
    "city": "Sakhir",
    "turns": 15,
    "ddDay": "18 - 20",
-   "ddMonth": "MARS",
+   "ddMonth": "MAR",
    "image": "google.com"
  },
  {
@@ -22,7 +22,7 @@
    "city": "Jeddah",
    "turns": 27,
    "ddDay": "25 - 27",
-   "ddMonth": "MARS",
+   "ddMonth": "MAR",
    "image": "google.com"
  },
  {
@@ -35,7 +35,7 @@
    "city": "Melbourne",
    "turns": 16,
    "ddDay": "08 - 10",
-   "ddMonth": "AVRIL",
+   "ddMonth": "AVR",
    "image": "google.com"
  },
  {
@@ -48,7 +48,7 @@
    "city": "Imola",
    "turns": 19,
    "ddDay": "22 - 24",
-   "ddMonth": "AVRIL",
+   "ddMonth": "AVR",
    "image": "google.com"
  },
  {
@@ -100,7 +100,7 @@
    "city": "Baku",
    "turns": 20,
    "ddDay": "10 - 12",
-   "ddMonth": "JUIN",
+   "ddMonth": "JUN",
    "image": "google.com"
  },
  {
@@ -113,7 +113,7 @@
    "city": "Montreal",
    "turns": 14,
    "ddDay": "17 - 19",
-   "ddMonth": "JUIN",
+   "ddMonth": "JUN",
    "image": "google.com"
  },
  {
@@ -126,7 +126,7 @@
    "city": "Silverstone",
    "turns": 18,
    "ddDay": "01 - 03",
-   "ddMonth": "JUILLET",
+   "ddMonth": "JUL",
    "image": "google.com"
  },
  {
@@ -139,7 +139,7 @@
    "city": "Spielberg",
    "turns": 10,
    "ddDay": "08 - 10",
-   "ddMonth": "JUILLET",
+   "ddMonth": "JUL",
    "image": "google.com"
  },
  {
@@ -152,7 +152,7 @@
    "city": "Le Castellet",
    "turns": 15,
    "ddDay": "22 - 24",
-   "ddMonth": "JUILLET",
+   "ddMonth": "JUL",
    "image": "google.com"
  },
  {
@@ -165,7 +165,7 @@
    "city": "Budapest",
    "turns": 14,
    "ddDay": "29 - 31",
-   "ddMonth": "JUILLET",
+   "ddMonth": "JUL",
    "image": "google.com"
  },
  {
@@ -178,7 +178,7 @@
    "city": "Spa",
    "turns": 19,
    "ddDay": "26 - 28",
-   "ddMonth": "AOUT",
+   "ddMonth": "AOU",
    "image": "google.com"
  },
  {
@@ -191,7 +191,7 @@
    "city": "Zandvoort",
    "turns": 14,
    "ddDay": "02 - 04",
-   "ddMonth": "SEPTEMBRE",
+   "ddMonth": "SEP",
    "image": "google.com"
  },
  {
@@ -204,7 +204,7 @@
    "city": "Monza",
    "turns": 11,
    "ddDay": "09 - 11",
-   "ddMonth": "SEPTEMBRE",
+   "ddMonth": "SEP",
    "image": "google.com"
  },
  {
@@ -217,7 +217,7 @@
    "city": "Marina Bay",
    "turns": 23,
    "ddDay": "30 - 02",
-   "ddMonth": "SEPT-OCT",
+   "ddMonth": "SEP-OCT",
    "image": "google.com"
  },
  {
@@ -230,7 +230,7 @@
    "city": "Suzuka",
    "turns": 18,
    "ddDay": "07 - 09",
-   "ddMonth": "OCTOBRE",
+   "ddMonth": "OCT",
    "image": "google.com"
  },
  {
@@ -243,7 +243,7 @@
    "city": "Austin",
    "turns": 20,
    "ddDay": "21 - 23",
-   "ddMonth": "OCTOBRE",
+   "ddMonth": "OCT",
    "image": "google.com"
  },
  {
@@ -256,7 +256,7 @@
    "city": "Mexico City",
    "turns": 17,
    "ddDay": "28 - 30",
-   "ddMonth": "OCTOBRE",
+   "ddMonth": "OCT",
    "image": "google.com"
  },
  {
@@ -269,7 +269,7 @@
    "city": "Sao Paulo",
    "turns": 15,
    "ddDay": "11 - 13",
-   "ddMonth": "NOVEMRE",
+   "ddMonth": "NOV",
    "image": "google.com"
  },
  {
@@ -282,7 +282,7 @@
    "city": "Abu Dhabi",
    "turns": 21,
    "ddDay": "18 - 20",
-   "ddMonth": "NOVEMBRE",
+   "ddMonth": "NOV",
    "image": "google.com"
  }
 ]
