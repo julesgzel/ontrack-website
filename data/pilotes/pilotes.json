@@ -1,0 +1,122 @@
+[
+ {
+   "name": "Max Verstappen",
+   "team": "Red Bull Racing",
+   "points": 208,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/verstappen.jpeg"
+ },
+ {
+   "name": "Charles Leclerc",
+   "team": "Ferrari",
+   "points": 170,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/leclerc.jpeg"
+ },
+ {
+   "name": "Sergio Perez",
+   "team": "Red Bull Racing",
+   "points": 151,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/perez.jpeg"
+ },
+ {
+   "name": "Carlos Sainz",
+   "team": "Ferrari",
+   "points": 133,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/sainz.jpeg"
+ },
+ {
+   "name": "George Russell",
+   "team": "Mercedes",
+   "points": 128,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/russell.jpeg"
+ },
+ {
+   "name": "Lewis Hamilton",
+   "team": "Mercedes",
+   "points": 109,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/hamilton.jpeg"
+ },
+ {
+   "name": "Lando Norris",
+   "team": "McLaren",
+   "points": 64,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/norris.jpeg"
+ },
+ {
+   "name": "Esteban Ocon",
+   "team": "Alpine F1 Team",
+   "points": 52,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/ocon.jpeg"
+ },
+ {
+   "name": "Valtteri Bottas",
+   "team": "Alfa Romeo",
+   "points": 46,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/bottas.jpeg"
+ },
+ {
+   "name": "Fernando Alonso",
+   "team": "Alpine F1 Team",
+   "points": 29,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/alonso.jpeg"
+ },
+ {
+   "name": "Kevin Magnussen",
+   "team": "Haas F1 Team",
+   "points": 22,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/magnussen.jpeg"
+ },
+ {
+   "name": "Daniel Ricciardo",
+   "team": "McLaren",
+   "points": 17,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/ricciardo.jpeg"
+ },
+ {
+   "name": "Pierre Gasly",
+   "team": "Alpha Tauri",
+   "points": 16,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/gasly.jpeg"
+ },
+ {
+   "name": "Sebastian Vettel",
+   "team": "Aston Martin",
+   "points": 15,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/vettel.jpeg"
+ },
+ {
+   "name": "Mick Schumacher",
+   "team": "Haas F1 Team",
+   "points": 12,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/schumacher.jpeg"
+ },
+ {
+   "name": "Yuki Tsunoda",
+   "team": "Alpha Tauri",
+   "points": 11,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/tsunoda.jpeg"
+ },
+ {
+   "name": "Guanyu Zhou",
+   "team": "Alfa Romeo",
+   "points": 5,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/zhou.jpeg"
+ },
+ {
+   "name": "Alexander Albon",
+   "team": "Williams",
+   "points": 3,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/albon.jpeg"
+ },
+ {
+   "name": "Lance Stroll",
+   "team": "Aston Martin",
+   "points": 3,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/stroll.jpeg"
+ },
+ {
+   "name": "Nicholas Latifi",
+   "team": "Williams",
+   "points": 0,
+   "image": "https://ontrack-app.com/data/pilotes/pilotes-images/latifi.jpeg"
+ }
+]
